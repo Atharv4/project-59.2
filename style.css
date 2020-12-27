@@ -1,0 +1,22 @@
+.body{
+    text-align: center;
+}
+p{
+    text-align: center;
+    color: aquamarine
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+.main{
+    text-align: left;
+    list-style: none;
+    font-family: cursive;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: aqua;
+}
